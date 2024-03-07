@@ -29,6 +29,30 @@ The dataset consists of following five features:
 
 ## Clone Repository
 Clone this Repository using,
+~~~
+https://github.com/Himanshuyadavv/Customer_Segmentation.git
+ ~~~
+
+## Usage
+Install `jupyter`
+~~~
+pip install jupyter
+~~~
+After installing jupyter notebook Just run `jupyter notebook` in terminal and you can visit the notebook in your web browser.
+
+## Dependencies
+* https://pandas.pydata.org/docs/
+* https://numpy.org/devdocs/user/index.html
+* https://matplotlib.org/3.3.3/contents.html
+* https://seaborn.pydata.org/
+* https://scikit-learn.org/stable/
+
+Install missing dependencies using,
+
+~~~
+pip install pandas numpy matplotlib seaborn sklearn
+~~~
+
 
 
 
